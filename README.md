@@ -8,9 +8,12 @@ This phenomenon happens in the field of finance sports and other live streaming 
 
 Developed by Philip Pankaj (c) 2021
 
+##Memory Retention Rate
+1 - Retain Max. Memory
+0 - Retain Least Memory
+![](https://raw.githubusercontent.com/philip-hash/MRN/main/memory%20retention%20rate.png)
+
 ##Example with Nasdaq 100 data
-
-
 ![](https://raw.githubusercontent.com/philip-hash/MTN/main/MRN_Nasdaq_Graph.png)
 
 ```python
