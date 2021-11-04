@@ -10,9 +10,8 @@ Developed by Philip Pankaj (c) 2021
 
 ##Example with Nasdaq 100 data
 
-<p align="center">
-  <img src="MRN_Nasdaq_Graph.png">
-</p>
+
+![](https://raw.githubusercontent.com/philip-hash/MTN/main/MRN_Nasdaq_Graph.png)
 
 ```python
 #importing our MRN
