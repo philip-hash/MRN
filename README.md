@@ -15,7 +15,7 @@ Developed by Philip Pankaj (c) 2021
 
 ```python
 #importing our MRN
-from MRN import Normalization
+from MRN.scale import Normalization
 
 #importing all required library
 from yahoo_fin.stock_info import get_data
